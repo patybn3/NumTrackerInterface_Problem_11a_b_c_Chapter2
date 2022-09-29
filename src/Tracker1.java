@@ -1,3 +1,7 @@
+/**
+ * @author Patricia N. Antlitz
+ * @version 1.0
+ */
 //first implementation of interface NumTrackerInterface
 public class Tracker1 implements NumTrackerInterface
 {
