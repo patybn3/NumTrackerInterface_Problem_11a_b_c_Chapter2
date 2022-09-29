@@ -18,9 +18,10 @@ Class: CIS-252 Computer Science II - NECC Fall 2022
  */
 
 //main class, will run the program
-public class NumTrackerInterface_PatriciaAntlitz {
-
-    public static void main(String[] args) {
+public class NumTrackerInterface_PatriciaAntlitz
+{
+    public static void main(String[] args)
+    {
         //objects were created from both of the implementation classes
         //we want to test both
         NumTrackerInterface oneTrack = new Tracker1();

@@ -3,7 +3,8 @@
  * @version 1.0
  */
 //interface class
-public interface NumTrackerInterface {
+public interface NumTrackerInterface
+{
 
     //will perform all the calculations, addition and average
     void add(int calcNum);
