@@ -1,3 +1,7 @@
+/**
+ * @author Patricia N. Antlitz
+ * @version 1.0
+ */
 //interface class
 public interface NumTrackerInterface {
 

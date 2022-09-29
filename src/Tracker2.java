@@ -1,4 +1,7 @@
-
+/**
+ * @author Patricia N. Antlitz
+ * @version 1.0
+ */
 import java.util.Scanner;
 
 public class Tracker2 implements NumTrackerInterface
